@@ -2,45 +2,32 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<!--![Profile Image]({{ site.picture }})-->
+<div class="animated">
+<img src="{{ site.picture }}">
+<p>I am an undergraduate student in Finance and Banking at Saigon University, HCMC, Vietnam.
+I've been working as both part-time and full-time in numerous related fields such as Customer 
+Service, Stock - Securities, Accountant and Administrator. I'm currently working as an intern
+at KMS Technology, HCMC. FinTech is the main topic that I am pursuing. </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>As FinTech is growing to be a promising future for finance and currency, I found it's very 
+interesting to study and research further about FinTech, especially Blockchain. As far as I 
+researched, Blockchain will play an important role for our future in exchanging values and 
+as a reliable currency, there is no need for institutions to make such exchanges with a 
+lowest uncertainty among community. I believe in the idea of decentralization and reliability
+is maintain using the community's power</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<h2>Skills</h2>
+<h2>Skills and Knowledge</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Financial Analysis</li>
+	<li>Accounting</li>
+	<li>Stock Exchanges</li>
+	<li>Financial Technology</li>
 </ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<h2> Languages </h2>
+<ul class="skill-list">
+	<li>English - Intermediate</li>
+	<li>Vietnamese - Native</li>
 </ul>
+</div>
